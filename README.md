@@ -43,9 +43,9 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 6.Updating Weights
 
 ## Program:
-Program to implement ANN by back propagation algorithm.
-Developed by   : N Sandhya Charu
-RegisterNumber : 212220230041
+### Program to implement ANN by back propagation algorithm.
+### Developed by   : N Sandhya Charu
+### RegisterNumber : 212220230041
 ```python3
 import numpy as np
 X=np.array(([2,9],[1,5],[3,6]),dtype=float)
