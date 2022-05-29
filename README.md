@@ -29,6 +29,11 @@ b. For the hidden units.
 
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
+<br>
+<br>
+<br>
+<br>
+
 ## Algorithm
 1.Import packages
 
@@ -43,10 +48,11 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 6.Updating Weights
 
 ## Program:
-### Program to implement ANN by back propagation algorithm.
-### Developed by   : N Sandhya Charu
-### RegisterNumber : 212220230041
 ```python3
+Program to implement ANN by back propagation algorithm.
+Developed by   : N Sandhya Charu
+RegisterNumber : 212220230041
+
 import numpy as np
 X=np.array(([2,9],[1,5],[3,6]),dtype=float)
 y=np.array(([92],[86],[89]),dtype=float)
